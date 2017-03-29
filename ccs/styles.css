@@ -1,0 +1,24 @@
+@font-face {
+font-family: LiberationSans;
+src:url(../fonts/LiberationSans-Regular.ttf );
+}
+
+img {
+  display: block;
+  margin : 0 auto ;
+}
+
+body {
+  text-align: center;
+}
+
+.titulo{
+  text-align: right;
+  font-family: LiberationSans;
+  font-size: small;
+}
+
+.pie {
+  font-family: LiberationSans;
+  font-size: small;
+}
